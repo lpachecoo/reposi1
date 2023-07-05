@@ -1,3 +1,2 @@
-# reposi1 soy lautaro
-lautaro pacheco 
-y esto ya me canso
+ soy lautaro
+y este es mi primer repositorio de github
